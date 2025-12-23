@@ -1,14 +1,10 @@
-## Top of the morning!
+Hi, I’m Utkarsh 👋
 
+I’m a first-year Electrical Engineering student at Georgia Tech interested in building at the intersection of hardware, software, and product. I enjoy learning by doing—whether that’s designing small PCBs, building mobile apps, or experimenting with early-stage ideas.
 
+I’m currently exploring:
+- Embedded systems and basic circuit design
+- Mobile development with SwiftUI and Flutter
+- How software and electrical systems come together in real products
 
-Hi — I’m **Ubterminater**, an aspiring software developer learning full‑stack web development. I’m focused on JavaScript, React, and modern backend practices. I enjoy learning by building small projects and contributing to beginner-friendly open-source work.
-
-- 🔭 I’m currently working on: building small React/Node apps to practice full‑stack patterns
-- 🌱 I’m currently learning: TypeScript, Node.js, and data structures & algorithms
-- 👯 I’m looking to collaborate on: beginner-friendly open-source projects and mentorship opportunities
-- 📫 How to reach me: [your-email@example.com] (replace with your contact)
-- 😄 Pronouns: (add yours)
-- ⚡ Fun fact: I love coffee, biking, and learning by building things
-
-If you want this personalized (name/handle, top tech, or contact links), tell me the details and I’ll update it.
+This GitHub is a collection of projects, experiments, and things I’m learning along the way.
